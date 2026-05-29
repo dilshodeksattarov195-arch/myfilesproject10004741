@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cartcecrypt",
+        "uuid": 20187178,
+        "checksum": "yjht"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
